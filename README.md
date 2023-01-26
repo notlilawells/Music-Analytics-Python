@@ -2,7 +2,7 @@
 
 <img width="896" alt="Screen Shot 2023-01-13 at 12 13 34 PM" src="https://user-images.githubusercontent.com/101524157/212390698-2f8b55c0-9ba6-44e6-80e4-633160ffd0bf.png">
 
-AUTHORS: Lila Wells, Radhika Todi, Julianne Sun, and Vaynu Kadiyali
+AUTHORS: Lila Wells, Radhika Toadi, Julianne Sun, and Vaynu Kadiyali
 
 ABSTRACT: Streaming platforms like Spotify have altered the competitive landscape of the music industry, decreasing barriers of entry for new musicians and broadening the scope of music that audiences listen to [2]. Online services like Spotify now account for ~83% of music streaming revenue [2]. Thus, musicians, record labels, and producers alike have a vested interest in determining what makes a song successful on these platforms (to replicate that success in their own songs). By analyzing a Spotify dataset and Top-40 charts from the U.S. and Europe, we explore several questions related to song popularity to understand what song factors are associated with success. Our questions encompass (1) factors associated with popularity; (2) changes in song qualities over time; (3) common features in popular song titles; and (4) whether certain qualities affect song popularity in different markets. We find that songs with explicit lyrics, loud volumes, high energies, and less acoustic elements or instrumentation may be more popular; that danceability is increasing and energy is decreasing in popular songs; that songs in the English language with collaborative features tend to be more popular; and, that while international audiences prefer more instrumental music, vying for international appeal may not beget more success.
 
